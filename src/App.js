@@ -28,7 +28,7 @@ function App() {
     },
     {
       subsType: "PRO",
-      price: "$9",
+      price: "$49",
       features: [
         "Single User",
         "5GB Storage",
